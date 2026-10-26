@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sponge_mod",
+  "version": "${version}",
+  "name": "Sponge Mod",
+  "description": "Adds a sponge that dries, soaks up dirty water, and poisons swimmers, plus planks that rot.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.sponge.SpongeMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
