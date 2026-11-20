@@ -1,4 +1,4 @@
-package com.example.sponge;
+package com.alleluia.sponge;
 
 import java.util.HashMap;
 import java.util.Map;

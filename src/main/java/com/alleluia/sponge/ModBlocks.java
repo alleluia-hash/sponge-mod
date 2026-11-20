@@ -1,4 +1,4 @@
-package com.example.sponge;
+package com.alleluia.sponge;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
