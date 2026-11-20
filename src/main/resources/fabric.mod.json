@@ -4,12 +4,12 @@
   "version": "${version}",
   "name": "Sponge Mod",
   "description": "Adds a sponge that dries, soaks up dirty water, and poisons swimmers, plus planks that rot.",
-  "authors": [],
+  "authors": ["alleluia-hash"],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.sponge.SpongeMod"
+      "com.alleluia.sponge.SpongeMod"
     ]
   },
   "depends": {
